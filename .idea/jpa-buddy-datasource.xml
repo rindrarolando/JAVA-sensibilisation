@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="fa4a3ec5-0c2c-43c3-af58-7c3f5d2967df" name="rechauffement-climatique" url="jdbc:postgresql://localhost/rechauffement" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>

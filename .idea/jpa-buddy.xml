@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="postgres">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="fa4a3ec5-0c2c-43c3-af58-7c3f5d2967df" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/miniprojet/rechauffementclimatique/entities" />
+  </component>
+</project>
